@@ -1,0 +1,1 @@
+# sternik-proc_obj
